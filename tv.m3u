@@ -11,7 +11,7 @@ https://live-nelonen-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cC
 https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8
 #EXTINF:-1 tvg-name="Sub"tvg-id="Sub.fi"tvg-logo="https://i.imgur.com/VRCuxQt.png"group-title="Finland",MTV Sub
 https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
-#EXTINF:-1 tvg-name="TV Viisi"tvg-id="TVViisi"tvg-logo="https://i.imgur.com/MoukyGs.png"group-title="Finland",TV5 Finland
+#EXTINF:-1 tvg-name="TV Viisi"tvg-id="TVViisi"tvg-logo="https://i.imgur.com/MoukyGs.png"group-title="Finland",TV5
 https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Liv"tvg-id="Liv.fi"tvg-logo="https://www.tvkaista.org/assets/channelpics/custom_Liv.svg"group-title="Finland",Liv
 https://live-liv-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQzMjgzNzAsIm5iZiI6MTcxNDMyODA3MCwiZXhwIjoxNzE0NDE0NzcwLCJwYXRoIjoiL291dC92MS8yYzgxZDI4M2UxNjQ0Y2VjYmE5M2RmYWU4ZGM1YWZlOS8iLCJpcCI6Ijg3Ljk1LjEyMy45IiwiYSI6IjI5YTU3In0.3AyBevnO3eUy1u99jkhlRi-XsklKMqDyBO94EuCV4MM/out/v1/2c81d283e1644cecba93dfae8dc5afe9/index.m3u8?start=0
@@ -19,7 +19,7 @@ https://live-liv-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6Ik
 https://live-jim-2.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQzMjgzNzcsIm5iZiI6MTcxNDMyODA3NywiZXhwIjoxNzE0NDE0Nzc3LCJwYXRoIjoiL291dC92MS8wYjc1YzUzZGIxY2Y0MTIzYjQ5MWNkMTM1YWNkNWQ4Ni8iLCJpcCI6Ijg3Ljk1LjEyMy45IiwiYSI6IjI5YTU3In0.3PEV1UgKdgEsDsNc21ev-gV4HecMKt8W6MWzKHt3-W0/out/v1/0b75c53db1cf4123b491cd135acd5d86/index.m3u8?start=0
 #EXTINF:-1 tvg-name="Kutonen"tvg-id="Kutonen.fi"tvg-logo="https://i.imgur.com/4giVyxb.png"group-title="Finland",Kutonen
 https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
-#EXTINF:-1 tvg-name="TLC"tvg-id="TLCFinland.fi"tvg-logo="https://i.imgur.com/0d5hP3A.png"group-title="Finland",TLC Finland
+#EXTINF:-1 tvg-name="TLC"tvg-id="TLCFinland.fi"tvg-logo="https://i.imgur.com/0d5hP3A.png"group-title="Finland",TLC
 https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Star Channel"tvg-id="fox.fi"tvg-logo="https://www.tvkaista.org/assets/channelpics/wikipedia_StarChannel.svg"group-title="Finland",Star Channel
 https://live-fox.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQzMjgzNDgsIm5iZiI6MTcxNDMyODA0OCwiZXhwIjoxNzE0NDE0NzQ4LCJwYXRoIjoiL291dC92MS83ZTJkNzIxNTk5YmU0YjIxODFmNDQ0NDVkYWE0OWI2Yi8iLCJpcCI6Ijg3Ljk1LjEyMy45IiwiYSI6IjI5YTU3In0.CJm2Lrzi_ucjO8lEOXw1S7kiMvbb4sE_L05IOwSqQFM/out/v1/7e2d721599be4b2181f44445daa49b6b/index.m3u8?start=0
@@ -29,7 +29,7 @@ https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
 https://live-hero-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQzMjgzNjIsIm5iZiI6MTcxNDMyODA2MiwiZXhwIjoxNzE0NDE0NzYyLCJwYXRoIjoiL291dC92MS8yMTM4OGQxMzY0ZDY0ZmVkODBlZDM4NGM1NmY1MmYxNS8iLCJpcCI6Ijg3Ljk1LjEyMy45IiwiYSI6IjI5YTU3In0.FPbHYURcEwFKdQAFrugStAdm77lmwmIMTfOIFtey7YU/out/v1/21388d1364d64fed80ed384c56f52f15/index.m3u8?start=0
 #EXTINF:-1 tvg-name="Frii"tvg-id="FriiFinland.fi "tvg-logo="https://i.imgur.com/ljKoG9I.png"group-title="Finland",Frii
 https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv
-#EXTINF:-1 tvg-name="National Geographic"tvg-id="NationalGeographicFinland.fi"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"group-title="Finland",National Geographic Finland
+#EXTINF:-1 tvg-name="National Geographic"tvg-id="NationalGeographicFinland.fi"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"group-title="Finland",National Geographic
 https://live-natgeo.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQzMjgzMzEsIm5iZiI6MTcxNDMyODAzMSwiZXhwIjoxNzE0NDE0NzMxLCJwYXRoIjoiL291dC92MS8wNWQxYmViMzcyZmU0MDEwOTU4ZmY1YjA1MWJhMGUzYy8iLCJpcCI6Ijg3Ljk1LjEyMy45IiwiYSI6IjI5YTU3In0._VT0QxZhwGuDd07qotu0D1uxCNx3um7XYSXFTp03sAY/out/v1/05d1beb372fe4010958ff5b051ba0e3c/index.m3u8?start=0
 #EXTINF:-1 tvg-name="MTV Uutiset Live"tvg-id="MTVUutiset.fi"tvg-logo="https://i.imgur.com/IyB6mIb.png"group-title="Finland",MTV Uutiset Live
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
