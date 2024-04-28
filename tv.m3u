@@ -9,9 +9,9 @@ https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
 https://live-nelonen-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQzMjgzODQsIm5iZiI6MTcxNDMyODA4NCwiZXhwIjoxNzE0NDE0Nzg0LCJwYXRoIjoiL291dC92MS9kMjMxOWI1OGIwZGM0ODUxYWViZDliNWU5MGJhNWM3MC8iLCJpcCI6Ijg3Ljk1LjEyMy45IiwiYSI6IjI5YTU3In0.awNZ2vI33tmMnKH8-P3aYX9USpJlCJe19zWUlKF3BSs/out/v1/d2319b58b0dc4851aebd9b5e90ba5c70/index.m3u8?start=0
 #EXTINF:-1 tvg-name="Yle Teema Fem Ⓖ"tvg-id="YleTeemaFem.fi"tvg-logo="https://i.imgur.com/iDljufz.png"group-title="Finland",Yle Teema Fem Ⓖ
 https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8
-#EXTINF:-1 tvg-name="MTV Sub"tvg-id=" MTV Sub.fi"tvg-logo="https://i.imgur.com/VRCuxQt.png"group-title="Finland",MTV Sub
+#EXTINF:-1 tvg-name="MTV Sub"tvg-id="Sub.fi"tvg-logo="https://i.imgur.com/VRCuxQt.png"group-title="Finland",MTV Sub
 https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
-#EXTINF:-1 tvg-name="TV5"tvg-id="TV5.fi"tvg-logo="https://i.imgur.com/MoukyGs.png"group-title="Finland",TV5 Finland
+#EXTINF:-1 tvg-name="TV5"tvg-id="TV5Finland.fi"tvg-logo="https://i.imgur.com/MoukyGs.png"group-title="Finland",TV5 Finland
 https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Liv"tvg-id="Liv.fi"tvg-logo="https://www.tvkaista.org/assets/channelpics/custom_Liv.svg"group-title="Finland",Liv
 https://live-liv-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQzMjgzNzAsIm5iZiI6MTcxNDMyODA3MCwiZXhwIjoxNzE0NDE0NzcwLCJwYXRoIjoiL291dC92MS8yYzgxZDI4M2UxNjQ0Y2VjYmE5M2RmYWU4ZGM1YWZlOS8iLCJpcCI6Ijg3Ljk1LjEyMy45IiwiYSI6IjI5YTU3In0.3AyBevnO3eUy1u99jkhlRi-XsklKMqDyBO94EuCV4MM/out/v1/2c81d283e1644cecba93dfae8dc5afe9/index.m3u8?start=0
@@ -23,7 +23,7 @@ https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
 https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Star Channel"tvg-id="fox.fi"tvg-logo="https://www.tvkaista.org/assets/channelpics/wikipedia_StarChannel.svg"group-title="Finland",Star Channel
 https://live-fox.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQzMjgzNDgsIm5iZiI6MTcxNDMyODA0OCwiZXhwIjoxNzE0NDE0NzQ4LCJwYXRoIjoiL291dC92MS83ZTJkNzIxNTk5YmU0YjIxODFmNDQ0NDVkYWE0OWI2Yi8iLCJpcCI6Ijg3Ljk1LjEyMy45IiwiYSI6IjI5YTU3In0.CJm2Lrzi_ucjO8lEOXw1S7kiMvbb4sE_L05IOwSqQFM/out/v1/7e2d721599be4b2181f44445daa49b6b/index.m3u8?start=0
-#EXTINF:-1 tvg-name="MTV Ava"tvg-id="AVA.fi"tvg-logo="https://i.imgur.com/rtyJVgB.png"group-title="Finland",MTV Ava
+#EXTINF:-1 tvg-name="MTV Ava"tvg-id="mtvava.fi"tvg-logo="https://i.imgur.com/rtyJVgB.png"group-title="Finland",MTV Ava
 https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Hero"tvg-id="Hero.fi"tvg-logo="https://www.tvkaista.org/assets/channelpics/custom_Hero.svg"group-title="Finland",Hero
 https://live-hero-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQzMjgzNjIsIm5iZiI6MTcxNDMyODA2MiwiZXhwIjoxNzE0NDE0NzYyLCJwYXRoIjoiL291dC92MS8yMTM4OGQxMzY0ZDY0ZmVkODBlZDM4NGM1NmY1MmYxNS8iLCJpcCI6Ijg3Ljk1LjEyMy45IiwiYSI6IjI5YTU3In0.FPbHYURcEwFKdQAFrugStAdm77lmwmIMTfOIFtey7YU/out/v1/21388d1364d64fed80ed384c56f52f15/index.m3u8?start=0
