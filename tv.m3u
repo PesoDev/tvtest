@@ -7,11 +7,11 @@ https://yletv.akamaized.net/hls/live/622366/yletv2fin/index.m3u8
 https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Nelonen"tvg-id="Nelonen.fi"tvg-logo="https://i.imgur.com/BFbCyfY.png"group-title="Finland",Nelonen
 https://live-nelonen-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQzMjgzODQsIm5iZiI6MTcxNDMyODA4NCwiZXhwIjoxNzE0NDE0Nzg0LCJwYXRoIjoiL291dC92MS9kMjMxOWI1OGIwZGM0ODUxYWViZDliNWU5MGJhNWM3MC8iLCJpcCI6Ijg3Ljk1LjEyMy45IiwiYSI6IjI5YTU3In0.awNZ2vI33tmMnKH8-P3aYX9USpJlCJe19zWUlKF3BSs/out/v1/d2319b58b0dc4851aebd9b5e90ba5c70/index.m3u8?start=0
-#EXTINF:-1 tvg-name="Yle Teema Fem Ⓖ"tvg-id="Yle Teema.fi  "tvg-logo="https://i.imgur.com/iDljufz.png"group-title="Finland",Yle Teema Fem Ⓖ
+#EXTINF:-1 tvg-name="Yle Teema Fem Ⓖ"tvg-id="Yle Teema & Fem.fi"tvg-logo="https://i.imgur.com/iDljufz.png"group-title="Finland",Yle Teema Fem Ⓖ
 https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8
-#EXTINF:-1 tvg-name="MTV Sub"tvg-id="Sub.fi"tvg-logo="https://i.imgur.com/VRCuxQt.png"group-title="Finland",MTV Sub
+#EXTINF:-1 tvg-name="MTV Sub"tvg-id=" MTV Sub.fi"tvg-logo="https://i.imgur.com/VRCuxQt.png"group-title="Finland",MTV Sub
 https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
-#EXTINF:-1 tvg-name="TV5 Finland"tvg-id="TV5.fi"tvg-logo="https://i.imgur.com/MoukyGs.png"group-title="Finland",TV5 Finland
+#EXTINF:-1 tvg-name="TV5 Finland"tvg-id="Vitonen.fi"tvg-logo="https://i.imgur.com/MoukyGs.png"group-title="Finland",TV5 Finland
 https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Liv"tvg-id="Liv.fi"tvg-logo="https://www.tvkaista.org/assets/channelpics/custom_Liv.svg"group-title="Finland",Liv
 https://live-liv-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQzMjgzNzAsIm5iZiI6MTcxNDMyODA3MCwiZXhwIjoxNzE0NDE0NzcwLCJwYXRoIjoiL291dC92MS8yYzgxZDI4M2UxNjQ0Y2VjYmE5M2RmYWU4ZGM1YWZlOS8iLCJpcCI6Ijg3Ljk1LjEyMy45IiwiYSI6IjI5YTU3In0.3AyBevnO3eUy1u99jkhlRi-XsklKMqDyBO94EuCV4MM/out/v1/2c81d283e1644cecba93dfae8dc5afe9/index.m3u8?start=0
@@ -29,7 +29,7 @@ https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
 https://live-hero-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQzMjgzNjIsIm5iZiI6MTcxNDMyODA2MiwiZXhwIjoxNzE0NDE0NzYyLCJwYXRoIjoiL291dC92MS8yMTM4OGQxMzY0ZDY0ZmVkODBlZDM4NGM1NmY1MmYxNS8iLCJpcCI6Ijg3Ljk1LjEyMy45IiwiYSI6IjI5YTU3In0.FPbHYURcEwFKdQAFrugStAdm77lmwmIMTfOIFtey7YU/out/v1/21388d1364d64fed80ed384c56f52f15/index.m3u8?start=0
 #EXTINF:-1 tvg-name="Frii"tvg-id="FriiFinland.fi "tvg-logo="https://i.imgur.com/ljKoG9I.png"group-title="Finland",Frii
 https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv
-#EXTINF:-1 tvg-name="National Geographic Finland"tvg-id="NationalGeographicFinland.fi"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"group-title="Finland",National Geographic Finland
+#EXTINF:-1 tvg-name="National Geographic"tvg-id="National Geographic.fi"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"group-title="Finland",National Geographic Finland
 https://live-natgeo.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQzMjgzMzEsIm5iZiI6MTcxNDMyODAzMSwiZXhwIjoxNzE0NDE0NzMxLCJwYXRoIjoiL291dC92MS8wNWQxYmViMzcyZmU0MDEwOTU4ZmY1YjA1MWJhMGUzYy8iLCJpcCI6Ijg3Ljk1LjEyMy45IiwiYSI6IjI5YTU3In0._VT0QxZhwGuDd07qotu0D1uxCNx3um7XYSXFTp03sAY/out/v1/05d1beb372fe4010958ff5b051ba0e3c/index.m3u8?start=0
 #EXTINF:-1 tvg-name="MTV Uutiset Live"tvg-id="MTVUutiset.fi"tvg-logo="https://i.imgur.com/IyB6mIb.png"group-title="Finland",MTV Uutiset Live
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
