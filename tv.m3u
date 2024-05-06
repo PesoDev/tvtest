@@ -6,17 +6,7 @@ https://yletv.akamaized.net/hls/live/622366/yletv2fin/index.m3u8
 #EXTINF:-1 tvg-name="MTV3"tvg-id="MTV3.fi"tvg-logo="https://i.imgur.com/kNbmc8n.png"group-title="Finland",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Nelonen"tvg-id="Nelonen.fi"tvg-logo="https://i.imgur.com/BFbCyfY.png"group-title="Finland",Nelonen
-Host:live-nelonen-fta.nm-elemental.nelonenmedia.fi
-User-Agent:Mozilla/5.0 (Android 13; Mobile; rv:125.0) Gecko/125.0 Firefox/125.0
-Accept:*/*
-Accept-Language:fi-FI,en-US;q=0.5
-Accept-Encoding:gzip, deflate, br
-Origin:https://www.ruutu.fi
-Connection:keep-alive
-Referer:https://www.ruutu.fi/
-Sec-Fetch-Dest:empty
-Sec-Fetch-Mode:cors
-Sec-Fetch-Site:cross-sitecxNDkzMDUzMCwiZXhwIjoxNzE1MDE3MjMwLCJwYXRoIjoiL291dC92MS9kMjMxOWI1OGIwZGM0ODUxYWViZDliNWU5MGJhNWM3MC8iLCJpcCI6Ijg1LjEzMS4xMDIuNDIiLCJhIjoiMjlhNTcifQ.9XQ1p7V4zq8UQHrs6osNvLmaA3o6R3DvqL7ABR4BPGE/out/v1/d2319b58b0dc4851aebd9b5e90ba5c70/index.m3u8?start=0
+https://live-nelonen-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTQ5OTU4NzQsIm5iZiI6MTcxNDk5NTU3NCwiZXhwIjoxNzE1MDgyMjc0LCJwYXRoIjoiL291dC92MS9kMjMxOWI1OGIwZGM0ODUxYWViZDliNWU5MGJhNWM3MC8iLCJpcCI6Ijg3Ljk1LjY5LjIwMyIsImEiOiIyOWE1NyJ9.pPRpA64r6Q5V5hTgBfnFNLHwhwcFpOmJKkBWLvJwr_A/out/v1/d2319b58b0dc4851aebd9b5e90ba5c70/index.m3u8?start=0
 #EXTINF:-1 tvg-name="YleTeema"tvg-id="YleTeema.fi"tvg-logo="https://i.imgur.com/iDljufz.png"group-title="Finland",Yle Teema Fem Ⓖ
 https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8
 #EXTINF:-1 tvg-name="Sub"tvg-id="Sub.fi"tvg-logo="https://i.imgur.com/VRCuxQt.png"group-title="Finland",MTV Sub
