@@ -112,7 +112,7 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="PrivateTV.nl"tvg-id=""tvg-logo="https://i.imgur.com/2yt8MAA.png"group-title="XXX",Private TV (576p)
 http://149.62.183.194:9293/play/a07t
 #EXTINF:-1 tvg-name="PrivateTVHD.nl"tvg-id=""tvg-logo="https://i.imgur.com/89E8Ev2.png"group-title="XXX",Private TV HD (720p)
-https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
+https://nimble.adultstvlive.com/liveCDN/buddo_servo1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjQgMjo1NzowMiBQTSZoYXNoX3ZhbHVlPTdxd0xNeXJCL01VYlNvRXF5T3g0Znc9PSZ2YWxpZG1pbnV0ZXM9NyZpZD0xNzE5OTMyMjIyNTkzJnN0cm1fbGVuPTIw
 #EXTINF:-1 tvg-name="RedlightHD.nl"tvg-id=""tvg-logo="https://i.imgur.com/g0QF5IG.png"group-title="XXX",Redlight HD (720p)
 https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="Silk.ru"tvg-id=""tvg-logo="https://i.imgur.com/pbLpTrt.png"group-title="XXX",Silk (1080p) [Geo-blocked]
