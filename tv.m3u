@@ -6,7 +6,7 @@ https://yletv.akamaized.net/hls/live/622366/yletv2fin/index.m3u8
 #EXTINF:-1 tvg-name="MTV3"tvg-id="MTV3.fi"tvg-logo="https://i.imgur.com/kNbmc8n.png"group-title="Finland",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Nelonen"tvg-id="Nelonen.fi"tvg-logo="https://i.imgur.com/BFbCyfY.png"group-title="Finland",Nelonen
-https://www.ruutu.fi/tv/nelonen
+https://live-nelonen-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjAxNzU2ODEsIm5iZiI6MTcyMDE3NTM4MSwiZXhwIjoxNzIwMjYyMDgxLCJwYXRoIjoiL291dC92MS9kMjMxOWI1OGIwZGM0ODUxYWViZDliNWU5MGJhNWM3MC8iLCJpcCI6IjE3Ni45My4yNDIuNTQiLCJhIjoiMjlhNTcifQ.lKwiEETEEWgNVgtPyajT_Vx-QhBUm2wUb4YrPTPb06g/out/v1/d2319b58b0dc4851aebd9b5e90ba5c70/index.m3u8?start=0
 #EXTINF:-1 tvg-name="YleTeema"tvg-id="YleTeema.fi"tvg-logo="https://i.imgur.com/iDljufz.png"group-title="Finland",Yle Teema Fem Ⓖ
 https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8
 #EXTINF:-1 tvg-name="Sub"tvg-id="Sub.fi"tvg-logo="https://i.imgur.com/VRCuxQt.png"group-title="Finland",MTV Sub
@@ -14,7 +14,7 @@ https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="TV5.fi"tvg-id="TV5.fi"tvg-logo="https://i.imgur.com/MoukyGs.png"group-title="Finland",TV5.fi
 https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Liv"tvg-id="Liv.fi"tvg-logo="https://www.tvkaista.org/assets/channelpics/custom_Liv.svg"group-title="Finland",Liv
-https://live-liv-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjAxMTA4OTIsIm5iZiI6MTcyMDExMDU5MiwiZXhwIjoxNzIwMTk3MjkyLCJwYXRoIjoiL291dC92MS8yYzgxZDI4M2UxNjQ0Y2VjYmE5M2RmYWU4ZGM1YWZlOS8iLCJpcCI6IjE3Ni45My4yNDIuNTQiLCJhIjoiMjlhNTcifQ.eH-JuQyeE4llD_4E1-6ikvx0jCAOp1dLpfT_3v2KjI4/out/v1/2c81d283e1644cecba93dfae8dc5afe9/index.m3u8?start=0
+https://live-liv-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjAxNzU3MTMsIm5iZiI6MTcyMDE3NTQxMywiZXhwIjoxNzIwMjYyMTEzLCJwYXRoIjoiL291dC92MS8yYzgxZDI4M2UxNjQ0Y2VjYmE5M2RmYWU4ZGM1YWZlOS8iLCJpcCI6IjE3Ni45My4yNDIuNTQiLCJhIjoiMjlhNTcifQ.ASo7YCH5nE17rbXrzL9sbv5NneA6Fh-DAeCVZvmV-g4/out/v1/2c81d283e1644cecba93dfae8dc5afe9/index.m3u8?start=0
 #EXTINF:-1 tvg-name="Jim"tvg-id="Jim.fi"tvg-logo="https://www.tvkaista.org/assets/channelpics/custom_Jim.svg"group-title="Finland",Jim
 https://live-jim-2.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjAxMTA4ODIsIm5iZiI6MTcyMDExMDU4MiwiZXhwIjoxNzIwMTk3MjgyLCJwYXRoIjoiL291dC92MS8wYjc1YzUzZGIxY2Y0MTIzYjQ5MWNkMTM1YWNkNWQ4Ni8iLCJpcCI6IjE3Ni45My4yNDIuNTQiLCJhIjoiMjlhNTcifQ.lRjEkw6dGrMjCLeDCkBaeieGmbWcGiLh8AchLnTwv5s/out/v1/0b75c53db1cf4123b491cd135acd5d86/index.m3u8?start=0
 #EXTINF:-1 tvg-name="Kutonen"tvg-id="Kutonen.fi"tvg-logo="https://i.imgur.com/4giVyxb.png"group-title="Finland",Kutonen
