@@ -6,7 +6,7 @@ https://yletv.akamaized.net/hls/live/622366/yletv2fin/index.m3u8
 #EXTINF:-1 tvg-name="MTV3"tvg-id="MTV3.fi"tvg-logo="https://i.imgur.com/kNbmc8n.png"group-title="Finland",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Nelonen"tvg-id="Nelonen.fi"tvg-logo="https://i.imgur.com/BFbCyfY.png"group-title="Finland",Nelonen
-https://stream-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzI4MjI3ODEsIm5iZiI6MTczMjgyMjQ4MSwiZXhwIjoxNzMyOTA5MTgxLCJwYXRoIjoiL291dC92MS9wcm9kLWxpdmUtc3RyZWFtLXYyLWZ0YS9uZWxvbmVuL3QvIiwiaXAiOiIxMDkuMjA0LjE3Ny4xNjgiLCJhIjoiMzE2MGQifQ.uplZgVcqlyHbULDZ3MiR9y0VNLIq0hy3_Ji64bQ2IQc/out/v1/prod-live-stream-v2-fta/nelonen/t/hls-index.m3u8?start=1732800600
+https://stream-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzI5MDI1NTMsIm5iZiI6MTczMjkwMjI1MywiZXhwIjoxNzMyOTg4OTUzLCJwYXRoIjoiL291dC92MS9wcm9kLWxpdmUtc3RyZWFtLXYyLWZ0YS9uZWxvbmVuL3QvIiwiaXAiOiIxMDkuMjA0LjE3Ny4xNjgiLCJhIjoiMzE2MGQifQ.pGdla4rRVmx7H9WJzdqu8nc6Z7Q49QyAHLBnsNYuHzE/out/v1/prod-live-stream-v2-fta/nelonen/t/hls-index.m3u8?start=1732879800
 #EXTINF:-1 tvg-name="YleTeema"tvg-id="YleTeema.fi"tvg-logo="https://i.imgur.com/iDljufz.png"group-title="Finland",Yle Teema Fem Ⓖ
 https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8
 #EXTINF:-1 tvg-name="Sub"tvg-id="Sub.fi"tvg-logo="https://i.imgur.com/VRCuxQt.png"group-title="Finland",MTV Sub
@@ -14,23 +14,23 @@ https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="TV5.fi"tvg-id="TV5.fi"tvg-logo="https://i.imgur.com/MoukyGs.png"group-title="Finland",TV5.fi
 https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Liv"tvg-id="Liv.fi"tvg-logo="https://www.tvkaista.org/assets/channelpics/custom_Liv.svg"group-title="Finland",Liv
-https://stream-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzI4MjI3ODQsIm5iZiI6MTczMjgyMjQ4NCwiZXhwIjoxNzMyOTA5MTg0LCJwYXRoIjoiL291dC92MS9wcm9kLWxpdmUtc3RyZWFtLXYyLWZ0YS9saXYvdC8iLCJpcCI6IjEwOS4yMDQuMTc3LjE2OCIsImEiOiIzMTYwZCJ9.Lp9WkcPRUPHEAGMbxM5ng3EinmdoRoPeZUnsDY5v3vA/out/v1/prod-live-stream-v2-fta/liv/t/hls-index.m3u8?start=1732800600
+https://stream-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzI5MDI1NTcsIm5iZiI6MTczMjkwMjI1NywiZXhwIjoxNzMyOTg4OTU3LCJwYXRoIjoiL291dC92MS9wcm9kLWxpdmUtc3RyZWFtLXYyLWZ0YS9saXYvdC8iLCJpcCI6IjEwOS4yMDQuMTc3LjE2OCIsImEiOiIzMTYwZCJ9.J91PhTCjZhGJ00IfZhjtYz1gGoZLwdYZh6117P0esg0/out/v1/prod-live-stream-v2-fta/liv/t/hls-index.m3u8?start=1732879800
 #EXTINF:-1 tvg-name="Jim"tvg-id="Jim.fi"tvg-logo="https://www.tvkaista.org/assets/channelpics/custom_Jim.svg"group-title="Finland",Jim
-https://stream-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzI4MjI3ODcsIm5iZiI6MTczMjgyMjQ4NywiZXhwIjoxNzMyOTA5MTg3LCJwYXRoIjoiL291dC92MS9wcm9kLWxpdmUtc3RyZWFtLXYyLWZ0YS9qaW0vdC8iLCJpcCI6IjEwOS4yMDQuMTc3LjE2OCIsImEiOiIzMTYwZCJ9.7aK-qlzpASyG98RjjMagb_nEqDAVw4j4xnJrv7_f_TI/out/v1/prod-live-stream-v2-fta/jim/t/hls-index.m3u8?start=1732807800
+https://stream-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzI5MDI1NjAsIm5iZiI6MTczMjkwMjI2MCwiZXhwIjoxNzMyOTg4OTYwLCJwYXRoIjoiL291dC92MS9wcm9kLWxpdmUtc3RyZWFtLXYyLWZ0YS9qaW0vdC8iLCJpcCI6IjEwOS4yMDQuMTc3LjE2OCIsImEiOiIzMTYwZCJ9.eD6-NrrWuP6VK2f-2gDq8e4-3IoeD9G7Id1YH_sdaKg/out/v1/prod-live-stream-v2-fta/jim/t/hls-index.m3u8?start=1732887000
 #EXTINF:-1 tvg-name="Kutonen"tvg-id="Kutonen.fi"tvg-logo="https://i.imgur.com/4giVyxb.png"group-title="Finland",Kutonen
 https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="TLC"tvg-id="TLCFinland.fi"tvg-logo="https://i.imgur.com/0d5hP3A.png"group-title="Finland",TLC
 https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Star Channel"tvg-id="fox.fi"tvg-logo="https://www.tvkaista.org/assets/channelpics/wikipedia_StarChannel.svg"group-title="Finland",Star Channel
-https://live-fox.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzI4MjI3OTMsIm5iZiI6MTczMjgyMjQ5MywiZXhwIjoxNzMyOTA5MTkzLCJwYXRoIjoiL291dC92MS83ZTJkNzIxNTk5YmU0YjIxODFmNDQ0NDVkYWE0OWI2Yi8iLCJpcCI6IjEwOS4yMDQuMTc3LjE2OCIsImEiOiIzMTYwZCJ9.7YXk8o7h6NgRaeCbv3yD4Kt7tdMdlUsr8xKj1z8j1ug/out/v1/7e2d721599be4b2181f44445daa49b6b/index.m3u8?start=0
+https://live-fox.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzI5MDI1NjMsIm5iZiI6MTczMjkwMjI2MywiZXhwIjoxNzMyOTg4OTYzLCJwYXRoIjoiL291dC92MS83ZTJkNzIxNTk5YmU0YjIxODFmNDQ0NDVkYWE0OWI2Yi8iLCJpcCI6IjEwOS4yMDQuMTc3LjE2OCIsImEiOiIzMTYwZCJ9.qWYPWA-5pJSx4u6jwetZ6Y5f-4rTI8_I9jJdA8NeRr8/out/v1/7e2d721599be4b2181f44445daa49b6b/index.m3u8?start=0
 #EXTINF:-1 tvg-name="Ava"tvg-id="ava.fi"tvg-logo="https://i.imgur.com/rtyJVgB.png"group-title="Finland",MTV Ava
 https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Hero"tvg-id="Hero.fi"tvg-logo="https://www.tvkaista.org/assets/channelpics/custom_Hero.svg"group-title="Finland",Hero
-https://stream-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzI4MjI3OTUsIm5iZiI6MTczMjgyMjQ5NSwiZXhwIjoxNzMyOTA5MTk1LCJwYXRoIjoiL291dC92MS9wcm9kLWxpdmUtc3RyZWFtLXYyLWZ0YS9oZXJvL3QvIiwiaXAiOiIxMDkuMjA0LjE3Ny4xNjgiLCJhIjoiMzE2MGQifQ.WBSKj7lTVzCIGznJBwUvx3DzAHurMg5ox1kqjo0W6yg/out/v1/prod-live-stream-v2-fta/hero/t/hls-index.m3u8?start=1732807800
+https://stream-fta.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzI5MDI1NjYsIm5iZiI6MTczMjkwMjI2NiwiZXhwIjoxNzMyOTg4OTY2LCJwYXRoIjoiL291dC92MS9wcm9kLWxpdmUtc3RyZWFtLXYyLWZ0YS9oZXJvL3QvIiwiaXAiOiIxMDkuMjA0LjE3Ny4xNjgiLCJhIjoiMzE2MGQifQ.YdlYKXXdhfCmn9nQQ7KFpF8kS8uHkg9XjI-hIJHTb5g/out/v1/prod-live-stream-v2-fta/hero/t/hls-index.m3u8?start=1732887000
 #EXTINF:-1 tvg-name="Frii"tvg-id="FriiFinland.fi "tvg-logo="https://i.imgur.com/ljKoG9I.png"group-title="Finland",Frii
 https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="National Geographic"tvg-id="NationalGeographicFinland.fi"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"group-title="Finland",National Geographic
-https://live-natgeo.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzI4MjI3OTgsIm5iZiI6MTczMjgyMjQ5OCwiZXhwIjoxNzMyOTA5MTk4LCJwYXRoIjoiL291dC92MS8wNWQxYmViMzcyZmU0MDEwOTU4ZmY1YjA1MWJhMGUzYy8iLCJpcCI6IjEwOS4yMDQuMTc3LjE2OCIsImEiOiIzMTYwZCJ9.jzoTLYhj-jKTGW78kbxpS_zXn9hKszoWO9fzAwvByIU/out/v1/05d1beb372fe4010958ff5b051ba0e3c/index.m3u8?start=0
+https://live-natgeo.nm-elemental.nelonenmedia.fi/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzI5MDI1NzAsIm5iZiI6MTczMjkwMjI3MCwiZXhwIjoxNzMyOTg4OTcwLCJwYXRoIjoiL291dC92MS8wNWQxYmViMzcyZmU0MDEwOTU4ZmY1YjA1MWJhMGUzYy8iLCJpcCI6IjEwOS4yMDQuMTc3LjE2OCIsImEiOiIzMTYwZCJ9.QhxfoFuhsDPPTdJD0Jkm7pZ_dFmresr4ANOdEKISj5Y/out/v1/05d1beb372fe4010958ff5b051ba0e3c/index.m3u8?start=0
 #EXTINF:-1 tvg-name="MTV Uutiset Live"tvg-id="MTVUutiset.fi"tvg-logo="https://i.imgur.com/IyB6mIb.png"group-title="Finland",MTV Uutiset Live
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-name="Top Gear"tvg-id="top-gear.fi"tvg-logo="https://img.nm-ovp.nelonenmedia.fi/v1/pluto?src=%2Fchannels%2F64c8e75ae849b50008beb33f%2Fthumbnail.jpg&width=86"group-title="Finland",Top Gear
